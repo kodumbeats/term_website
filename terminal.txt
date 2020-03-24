@@ -1,0 +1,29 @@
+<span class="prompt"><span id="a">brandon@home</span>:<span id="b">~</span><span id="c">$ </span></span>ssh brandon@leckemby.me</br>
+
+<span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/animate resume/aboutme.txt</br>
+<p>Hi! :wave: I'm Brandon, a linux sysadmin, musician, and raspberrypi (rpi) enthusiast. I learned the tools of the trade supporting cloud deployments on Linode and working on-call as a backup administrator. At home, I run everything from a <a href="https://k3s.io/">k3s</a> rpi cluster, mostly containerized tools in python and golang. Let's chat about all that's cool in tech.</p>
+
+<span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/favoriteTools
+<ul id="horiz">
+	<li><a href="https://www.ansible.com/">ansible</a></li>
+	<li><a href="https://www.docker.com/">docker</a></li>
+	<li><a href="https://github.com/docker/compose">compose</a></li>
+	<li><a href="https://github.com/docker/swarm">swarm</a></li>
+	<li><a href="https://kubernetes.io/">kubernetes</a></li>
+	<li><a href="https://helm.sh/">helm</a></li>
+	<li><a href="https://git-scm.com/">git</a></li>
+	<li><a href="https://drone.io/">drone</a></li>
+	<li><a href="https://caddyserver.com/">caddy</a></li>
+	<li><a href="https://www.vaultproject.io/">vault</a></li>
+	<li><a href="https://prometheus.io/">prometheus</a></li>
+	<li><a href="https://grafana.com/">grafana</a></li>
+</ul>
+
+<span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/contact --verbose
+<ul>
+	<li><span id="c">email: </span><a>brandon.leckemby@gmail.com</a></li>
+	<li><span id="c">github: </span><a href="https://github.com/kodumbeats">github.com/kodumbeats</a></li>
+	<li><span id="c">linkedin: </span><a href="https://www.linkedin.com/in/brandonleckemby">linkedin.com/in/brandonleckemby</a></li>
+</ul>
+
+<span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span> 
