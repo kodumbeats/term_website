@@ -1,7 +1,8 @@
 <span class="prompt"><span id="a">brandon@home</span>:<span id="b">~</span><span id="c">$ </span></span>ssh brandon@leckemby.me</br>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/animate resume/aboutme.txt</br>
-<p>Hi! :wave: I'm Brandon, a linux sysadmin, musician, and raspberrypi (rpi) enthusiast. I learned the tools of the trade supporting cloud deployments on <a href="https://www.linode.com/community/user/bleckemby/answers">Linode</a> and working on-call as a backup administrator. At home, I run everything from a <a href="https://k3s.io/">k3s</a> rpi cluster, mostly containerized tools in python and golang. Let's chat about all that's cool in tech.</p>
+<p>Hi! :wave: I'm Brandon, a linux sysadmin, musician, and raspberrypi (rpi) enthusiast. I'm a support engineer at <a href="https://repl.it">Repl.it</a> and learned the tools of the trade at <a href="https://www.linode.com/community/user/bleckemby/answers">Linode</a>
+as a linux specialist and  on-call backups administrator. At home, I run everything from a <a href="https://k3s.io/">k3s</a> rpi cluster, mostly containerized tools in python and golang. Let's chat about all that's cool in tech.</p>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/favoriteTools
 <ul id="horiz">
