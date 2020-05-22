@@ -1,7 +1,7 @@
 <span class="prompt"><span id="a">brandon@home</span>:<span id="b">~</span><span id="c">$ </span></span>ssh brandon@leckemby.me</br>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/animate resume/aboutme.txt</br>
-<p>Hi! :wave: I'm Brandon, a linux sysadmin, musician, and raspberrypi (rpi) enthusiast. I'm a support engineer at <a href="https://repl.it">Repl.it</a> and learned the tools of the trade at <a href="https://www.linode.com/community/user/bleckemby/answers">Linode</a>
+<p>Hi! :wave: I'm Brandon, a linux sysadmin, budding fullstack engineer, musician, and raspberrypi (rpi) enthusiast. I started my tech career at <a href="https://www.linode.com/community/user/bleckemby/answers">Linode</a>
 as a linux specialist and  on-call backups administrator. At home, I run everything from a <a href="https://k3s.io/">k3s</a> rpi cluster, mostly containerized tools in python and golang. Let's chat about all that's cool in tech.</p>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/favoriteTools
@@ -20,9 +20,10 @@ as a linux specialist and  on-call backups administrator. At home, I run everyth
 	<li><a href="https://grafana.com/">grafana</a></li>
 </ul>
 
-<span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/contact --verbose
+<span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/media --verbose
 <ul>
-	<li><span id="c">email: </span><a>brandon.leckemby@gmail.com</a></li>
+  <li><span id="c">blog: </span><a href="https://kodumblog.glitch.me">kodumblog.glitch.me</a></li>
+	<li><span id="c">email: </span><a href="mailto:brandon.leckemby@gmail.com">brandon.leckemby@gmail.com</a></li>
 	<li><span id="c">github: </span><a href="https://github.com/kodumbeats">github.com/kodumbeats</a></li>
 	<li><span id="c">linkedin: </span><a href="https://www.linkedin.com/in/brandonleckemby">linkedin.com/in/brandonleckemby</a></li>
 </ul>
