@@ -1,28 +1,32 @@
 <span class="prompt"><span id="a">brandon@home</span>:<span id="b">~</span><span id="c">$ </span></span>ssh brandon@leckemby.me</br>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/animate resume/aboutme.txt</br>
-<p>Hi! :wave: I'm Brandon, a linux sysadmin, budding fullstack engineer, musician, and raspberrypi (rpi) enthusiast. I started my tech career at <a href="https://www.linode.com/community/user/bleckemby/answers">Linode</a>
-as a linux specialist and  on-call backups administrator. At home, I run everything from a <a href="https://k3s.io/">k3s</a> rpi cluster, mostly containerized tools in python and golang. Let's chat about all that's cool in tech.</p>
+<p>Hi! :wave: I'm Brandon, a linux sysadmin, devops engineer, indie hacker, and raspberrypi (pi) enthusiast. I'm passionate about internet privacy/safety, and I like docs. A lot.</p>
+
+<p>I started my tech career at <a href="https://www.linode.com/community/user/bleckemby/answers">Linode</a> as a linux specialist and  on-call backups administrator. Now, as a consultant, I provide linux, devops, fullstack, docs, and support services. At home, I run most everything from a cluster of six pis.</p>
+
+<p>Let's chat about all that's cool in tech.</p>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/favoriteTools
 <ul id="horiz">
-	<li><a href="https://www.ansible.com/">ansible</a></li>
-	<li><a href="https://www.docker.com/">docker</a></li>
-	<li><a href="https://github.com/docker/compose">compose</a></li>
-	<li><a href="https://github.com/docker/swarm">swarm</a></li>
+	<li><a href="https://prometheus.io/">prometheus</a></li>
 	<li><a href="https://kubernetes.io/">kubernetes</a></li>
-	<li><a href="https://helm.sh/">helm</a></li>
-	<li><a href="https://git-scm.com/">git</a></li>
-	<li><a href="https://drone.io/">drone</a></li>
+	<li><a href="https://vuejs.org/">vue.js</a></li>
+	<li><a href="https://www.ansible.com/">ansible</a></li>
+	<li><a href="https://grafana.com/">grafana</a></li>
+	<li><a href="https://nuxtjs.org//">nuxt.js</a></li>
 	<li><a href="https://caddyserver.com/">caddy</a></li>
 	<li><a href="https://www.vaultproject.io/">vault</a></li>
-	<li><a href="https://prometheus.io/">prometheus</a></li>
-	<li><a href="https://grafana.com/">grafana</a></li>
+	<li><a href="https://www.docker.com/">docker</a></li>
+	<li><a href="https://i3wm.org//">i3</a></li>
+	<li><a href="https://minbrowser.org/">min browser</a></li>
+	<li><a href="https://https://micro-editor.github.io//">micro editor</a></li>
+	<li><a href="https://figma.com/">figma</a></li>
 </ul>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/media --verbose
 <ul>
-  <li><span id="c">blog: </span><a href="https://kodumblog.glitch.me">kodumblog.glitch.me</a></li>
+  <li><span id="c">blog: </span><a href="https://blog.leckemby.me">blog.leckemby.me</a></li>
 	<li><span id="c">email: </span><a href="mailto:brandon.leckemby@gmail.com">brandon.leckemby@gmail.com</a></li>
 	<li><span id="c">github: </span><a href="https://github.com/kodumbeats">github.com/kodumbeats</a></li>
 	<li><span id="c">linkedin: </span><a href="https://www.linkedin.com/in/brandonleckemby">linkedin.com/in/brandonleckemby</a></li>
