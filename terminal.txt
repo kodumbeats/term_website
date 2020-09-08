@@ -25,7 +25,7 @@
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/maintaining
 <ul id="horiz">
   <li><a href="https://github.com/minbrowser/min">min-browser</li>
-  <li><a href="https://github.com/kodumbeats/min-archlinux">min-archlinux</li>
+  <li><a href="https://github.com/kodumbeats/min-archlinux">min-archlinux</a></li>
 </ul>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/media --verbose
