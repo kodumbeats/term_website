@@ -18,10 +18,14 @@
 	<li><a href="https://caddyserver.com/">caddy</a></li>
 	<li><a href="https://www.vaultproject.io/">vault</a></li>
 	<li><a href="https://www.docker.com/">docker</a></li>
-	<li><a href="https://i3wm.org//">i3</a></li>
-	<li><a href="https://minbrowser.org/">min browser</a></li>
-	<li><a href="https://https://micro-editor.github.io//">micro editor</a></li>
+	<li><a href="https://https://micro-editor.github.io//">micro-editor</a></li>
 	<li><a href="https://figma.com/">figma</a></li>
+</ul>
+
+<span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/maintaining
+<ul id="horiz">
+  <li><a href="https://github.com/minbrowser/min">min-browser</li>
+  <li><a href="https://github.com/kodumbeats/min-archlinux">min-archlinux</li>
 </ul>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/media --verbose
