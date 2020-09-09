@@ -3,7 +3,7 @@
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/animate resume/aboutme.txt</br>
 <p>Hi! :wave: I'm Brandon, a linux sysadmin, devops engineer, indie hacker, and raspberrypi (pi) enthusiast. I'm passionate about internet privacy/safety, and I like docs. A lot.</p>
 
-<p>I started my tech career at <a href="https://www.linode.com/community/user/bleckemby/answers">Linode</a> as a linux specialist and  on-call backups administrator. Now, as a consultant, I provide linux, devops, fullstack, docs, and support services. At home, I run most everything from a cluster of six pis.</p>
+<p>I started my tech career at Linode as a linux specialist and  on-call backups administrator. Now, as a consultant, I provide linux, devops, fullstack, docs, and support services. At home, I run most everything from a cluster of six pis.</p>
 
 <p>Let's chat about all that's cool in tech.</p>
 
