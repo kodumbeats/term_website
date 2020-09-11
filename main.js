@@ -3,7 +3,7 @@ var index = 0;
 var count = 6;
 var blink = null;
 
-var curl = $.get("terminal.txt", function(data){ //pull text into DOM
+var curl = jQuery.get("terminal.txt", function(data){ //pull text into DOM
 	inputText = curl.responseText;
 });
 
