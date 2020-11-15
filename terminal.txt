@@ -1,38 +1,30 @@
 <span class="prompt"><span id="a">brandon@home</span>:<span id="b">~</span><span id="c">$ </span></span>ssh brandon@leckemby.me</br>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/animate resume/aboutme.txt</br>
-<p>Hi! :wave: I'm Brandon, a linux sysadmin, devops engineer, indie hacker, and raspberrypi (pi) enthusiast. I'm passionate about internet privacy/safety, and I like docs. A lot.</p>
+<p>Hi! :wave: I'm Brandon, a solutions architect, linux sysadmin, devops engineer, fullstack javascript dev, and raspberrypi (pi) enthusiast. I'm passionate about internet privacy and safety, and I like docs. A lot.</p>
 
-<p>I started my tech career at Linode as a linux specialist and  on-call backups administrator. Now, as a consultant, I provide linux, devops, fullstack, docs, and support services. At home, I run most everything from a cluster of six pis.</p>
+<p>I started my tech career at Linode as a linux specialist and  on-call backups administrator. Now, as a solutions consultant, I develop secure, production-grade, maintainable applications to harmonize quality with agile business. I ensure my clients maintain ownership of their bits.</p>
 
-<p>Let's chat about all that's cool in tech.</p>
+<p>Let's chat about bringing bleeding-edge technology to your business.</p>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/favoriteTools
 <ul id="horiz">
-	<li><a href="https://prometheus.io/">prometheus</a></li>
-	<li><a href="https://kubernetes.io/">kubernetes</a></li>
-	<li><a href="https://vuejs.org/">vue.js</a></li>
-	<li><a href="https://www.ansible.com/">ansible</a></li>
-	<li><a href="https://grafana.com/">grafana</a></li>
-	<li><a href="https://nuxtjs.org//">nuxt.js</a></li>
-	<li><a href="https://caddyserver.com/">caddy</a></li>
-	<li><a href="https://www.vaultproject.io/">vault</a></li>
-	<li><a href="https://www.docker.com/">docker</a></li>
-	<li><a href="https://https://micro-editor.github.io//">micro</a></li>
-	<li><a href="https://figma.com/">figma</a></li>
+	<li><span id="c">frontend: </span><a href="https://vuejs.org/">vue</a> <a href="https://nuxtjs.org//">nuxt</a> <a href="https://figma.com/">figma</a> </li><br>
+	<li><span id="c">backend: </span><a href="https://nodejs.org/en/">node</a> <a href="https://expressjs.com/">express</a> <a href="https://deno.land/">deno</a> <a href="https://caddyserver.com/">caddy</a> </li><br>
+	<li><span id="c">devops: </span><a href="https://prometheus.io/">prometheus</a> <a href="https://grafana.com/">grafana</a> <a href="https://www.vaultproject.io/">vault</a></li><br>
+	<li><span id="c">systems: </span><a href="https://www.ansible.com/">ansible</a> <a href="https://www.docker.com/">docker</a> <a href="https://kubernetes.io/">kubernetes</a> </li>
 </ul>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/maintaining
 <ul id="horiz">
-  <li><a href="https://github.com/minbrowser/min">min-browser</li>
-  <li><a href="https://github.com/kodumbeats/min-archlinux">min-archlinux</a></li>
+  <li><a href="https://github.com/minbrowser/min">min-browser</a></li>
 </ul>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/media --verbose
-<ul>
-  <li><span id="c">blog: </span><a href="https://blog.leckemby.me">blog.leckemby.me</a></li>
-	<li><span id="c">email: </span><a href="mailto:brandon.leckemby@gmail.com">brandon.leckemby@gmail.com</a></li>
-	<li><span id="c">github: </span><a href="https://github.com/kodumbeats">github.com/kodumbeats</a></li>
+<ul id="horiz">
+  <li><span id="c">blog: </span><a href="https://blog.leckemby.me">blog.leckemby.me</a></li><br>
+	<li><span id="c">email: </span><a href="mailto:brandon.leckemby@gmail.com">brandon.leckemby@gmail.com</a></li><br>
+	<li><span id="c">github: </span><a href="https://github.com/kodumbeats">github.com/kodumbeats</a></li><br>
 	<li><span id="c">linkedin: </span><a href="https://www.linkedin.com/in/brandonleckemby">linkedin.com/in/brandonleckemby</a></li>
 </ul>
 
