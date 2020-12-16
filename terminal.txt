@@ -3,9 +3,9 @@
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/animate resume/aboutme.txt</br>
 <p>Hi! :wave: I'm Brandon, a solutions architect, linux sysadmin, devops engineer, fullstack javascript dev, and raspberrypi (pi) enthusiast. I'm passionate about internet privacy and safety, and I like docs. A lot.</p>
 
-<p>I started my tech career at Linode as a linux specialist and  on-call backups administrator. Now, as a solutions consultant, I develop secure, production-grade, maintainable applications to harmonize quality with agile business. I ensure my clients maintain ownership of their bits.</p>
+<p>I started my tech career at Linode as a linux specialist and on-call backups administrator. Now, as a solutions consultant, I offer a suite of solutions, devops, linux, and documentation services, maintaining privacy, security, and simplicity in architecture design.</p>
 
-<p>Let's chat about bringing bleeding-edge technology to your business.</p>
+<p>Let's chat about all things cool in tech in business.</p>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/favoriteTools
 <ul id="horiz">
