@@ -9,10 +9,10 @@
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/favoriteTools
 <ul id="horiz">
-	<li><span id="c">frontend: </span><a href="https://vuejs.org/">vue</a> <a href="https://nuxtjs.org//">nuxt</a> <a href="https://figma.com/">figma</a> </li><br>
-	<li><span id="c">backend: </span><a href="https://nodejs.org/en/">node</a> <a href="https://expressjs.com/">express</a> <a href="https://deno.land/">deno</a> <a href="https://caddyserver.com/">caddy</a> </li><br>
-	<li><span id="c">devops: </span><a href="https://prometheus.io/">prometheus</a> <a href="https://grafana.com/">grafana</a> <a href="https://www.vaultproject.io/">vault</a></li><br>
-	<li><span id="c">systems: </span><a href="https://www.ansible.com/">ansible</a> <a href="https://www.docker.com/">docker</a> <a href="https://kubernetes.io/">kubernetes</a> </li>
+	<li><span id="c">frontend: </span>vue nuxt figma </li><br>
+	<li><span id="c">backend: </span>node express deno caddy </li><br>
+	<li><span id="c">devops: </span>prometheus grafana vault </li><br>
+	<li><span id="c">systems: </span>ansible docker kubernetes </li>
 </ul>
 
 <span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/maintaining
