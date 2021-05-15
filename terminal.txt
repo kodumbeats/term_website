@@ -1,31 +1,26 @@
-<span class="prompt"><span id="a">brandon@home</span>:<span id="b">~</span><span id="c">$ </span></span>ssh brandon@leckemby.me</br>
+<span class="prompt"><span id="a">kodum@localhost</span>:<span id="b">~</span><span id="c">$ </span></span>ssh kodum@beats</br>
 
-<span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/animate resume/aboutme.txt</br>
+<span class="prompt"><span id="a">kodum@beats</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/animate resume/aboutme.txt</br>
 <p>Hi! :wave: I'm Brandon, a fullstack engineer @ Appwrite, linux sysadmin, and raspberrypi (pi) enthusiast. I'm passionate about internet privacy and safety, and I like docs. A lot.</p>
 
 <p>I started my tech career at Linode as a linux specialist and  on-call backups administrator. Now, as a fullstack engineer, I help build the open-source backend that I want to use.</p>
 
 <p>Let's chat about all things internet.</p>
 
-<span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/favoriteTools
+<span class="prompt"><span id="a">kodum@beats</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/favoriteTools
 <ul id="horiz">
-	<li><span id="c">frontend: </span>vue nuxt figma </li><br>
-	<li><span id="c">backend: </span>node express deno caddy </li><br>
+	<li><span id="c">frontend: </span>alpinejs vue nuxt figma </li><br>
+	<li><span id="c">backend: </span>expressjs utopia-php deno caddy </li><br>
 	<li><span id="c">devops: </span>prometheus grafana vault </li><br>
+	<li><span id="c">languages: </span>javascript php python </li><br>
 	<li><span id="c">systems: </span>ansible docker kubernetes </li>
 </ul>
 
-<span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>ls /opt/maintaining
+<span class="prompt"><span id="a">kodum@beats</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/media --verbose
 <ul id="horiz">
-  <li><a href="https://github.com/minbrowser/min">min-browser</a></li>
-</ul>
-
-<span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/media --verbose
-<ul id="horiz">
-  <li><span id="c">blog: </span><a href="https://blog.leckemby.me">blog.leckemby.me</a></li><br>
-	<li><span id="c">email: </span><a href="mailto:brandon.leckemby@gmail.com">brandon.leckemby@gmail.com</a></li><br>
+  <li><span id="c">blog: </span><a href="https://blog.kodumbeats.dev">blog.kodumbeats.dev</a></li><br>
+	<li><span id="c">email: </span><a href="mailto:"kodumbeats@gmail.com">kodumbeats@gmail.com</a></li><br>
 	<li><span id="c">github: </span><a href="https://github.com/kodumbeats">github.com/kodumbeats</a></li><br>
-	<li><span id="c">linkedin: </span><a href="https://www.linkedin.com/in/brandonleckemby">linkedin.com/in/brandonleckemby</a></li>
 </ul>
 
-<span class="prompt"><span id="a">brandon@leckemby.me</span>:<span id="b">~</span><span id="c">$ </span></span> 
+<span class="prompt"><span id="a">kodum@beats</span>:<span id="b">~</span><span id="c">$ </span></span> 
