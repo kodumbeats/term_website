@@ -19,7 +19,7 @@
 <span class="prompt"><span id="a">kodum@beats</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/media --verbose
 <ul id="horiz">
   <li><span id="c">blog: </span><a href="https://blog.kodumbeats.dev">blog.kodumbeats.dev</a></li><br>
-	<li><span id="c">email: </span><a href="mailto:"kodumbeats@gmail.com">kodumbeats@gmail.com</a></li><br>
+	<li><span id="c">email: </span><a href="mailto:kodumbeats@gmail.com">kodumbeats@gmail.com</a></li><br>
 	<li><span id="c">github: </span><a href="https://github.com/kodumbeats">github.com/kodumbeats</a></li><br>
 </ul>
 
