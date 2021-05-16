@@ -1,7 +1,7 @@
 <span class="prompt"><span id="a">kodum@localhost</span>:<span id="b">~</span><span id="c">$ </span></span>ssh kodum@beats</br>
 
 <span class="prompt"><span id="a">kodum@beats</span>:<span id="b">~</span><span id="c">$ </span></span>/opt/bin/animate resume/aboutme.txt</br>
-<p>Hi! :wave: I'm Brandon, a fullstack engineer @ <a href="https://appwrite.io/" target="_blank "rel="noopener noreferrer">Appwrite</a>, linux sysadmin, and raspberrypi (pi) enthusiast. I'm passionate about internet privacy and safety, and I like docs. A lot.</p>
+<p>Hi! :wave: I'm Brandon, a fullstack engineer @ <a href="https://appwrite.io/" class="appwrite" target="_blank "rel="noopener noreferrer">Appwrite</a>, linux sysadmin, and raspberrypi (pi) enthusiast. I'm passionate about internet privacy and safety, and I like docs. A lot.</p>
 
 <p>I started my tech career at Linode as a linux specialist and  on-call backups administrator. Now, as a fullstack engineer, I help build the open-source backend that I want to use.</p>
 

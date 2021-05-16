@@ -18,6 +18,10 @@ a {
 	text-decoration: none;
 }
 
+a.appwrite {
+    color: #f02e65;
+}
+
 p {
 	line-height: 1.4;
 }
