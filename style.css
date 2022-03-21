@@ -26,14 +26,8 @@ ul#horiz li { display: inline; }
 }
 
 @media only screen and (min-width: 720px) {
-  #term {
-    width: 40em;
-    padding-top: 4em;
-  }
+  #term { width: 40em; }
 }
 @media only screen and (min-width: 1000px) {
-  #term {
-    width: 50em;
-    padding-top: 6em;
-  }
+  #term { width: 50em; }
 }
