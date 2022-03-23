@@ -19,11 +19,9 @@ ul#horiz li { display: inline; }
 #term {
 	font-family: courier, monospace;
 	color: #fcfdfe;
-	padding-top: 2em;
 	line-height: 1.5;
-
+	padding-top: 2em;
   font-size: 13px;
-
 }
 @media only screen and (min-width: 350px) {
   #term {
@@ -31,12 +29,10 @@ ul#horiz li { display: inline; }
     margin-right:auto;
     width: 25em;
     font-size: 14px;
-
   }
 }
 @media only screen and (min-width: 444px) {
   #term {
-
     width: 30em;
     font-size: 15px;
   }
