@@ -19,15 +19,36 @@ ul#horiz li { display: inline; }
 #term {
 	font-family: courier, monospace;
 	color: #fcfdfe;
-	margin-left:auto;
-	margin-right:auto;
 	padding-top: 2em;
 	line-height: 1.5;
-}
 
-@media only screen and (min-width: 720px) {
-  #term { width: 40em; }
+  font-size: 13px;
+
 }
-@media only screen and (min-width: 1000px) {
-  #term { width: 50em; }
+@media only screen and (min-width: 350px) {
+  #term {
+    margin-left:auto;
+    margin-right:auto;
+    width: 25em;
+    font-size: 14px;
+
+  }
+}
+@media only screen and (min-width: 444px) {
+  #term {
+
+    width: 30em;
+    font-size: 15px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  #term {
+    width: 40em;
+    font-size: 16px;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  #term {
+    width: 50em;
+  }
 }
