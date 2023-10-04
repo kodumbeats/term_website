@@ -16,6 +16,23 @@ ul#horiz {
 ul#horiz li {
   display: inline;
 }
+
+.purple {
+  color: #a360e7;
+}
+.blue {
+  color: #557edb;
+}
+.green {
+  color: #3ba764;
+}
+.mongodb {
+  color: #00ed64;
+}
+.red {
+  color: #f34375;
+}
+
 .term {
   margin-left:auto;
   margin-right:auto;
@@ -25,10 +42,6 @@ ul#horiz li {
 	padding: 1em;
   font-size: 13px;
 }
-.hostname { color: #3ba764; }
-.path { color: #f34375; }
-.prompt { color: #557edb; }
-.mongodb { color: #00ed64; }
 
 @media only screen and (min-width: 360px) {
   .term {

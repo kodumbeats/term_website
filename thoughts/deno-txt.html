@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>kdmb.ca/thoughts</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/normalize.css@8.0.1/normalize.css">
+  <link rel="stylesheet" type="text/css" href="/style.css">
+  <link rel="icon" href="/favicon.svg">
+</head>
+
+<body class="term">
+  <section>
+    <strong>
+      <span class="green">kdmb@localhost</span>:<span class="red">~</span><span class="blue">></span>
+    </strong>ssh
+    kdmb@kdmb.ca
+  </section>
+
+  <section>
+    <strong>
+      <span class="green">kdmb@kdmb.ca</span>:<span class="red">~</span><span class="blue">></span>
+    </strong> ls thoughts/
+    <ul id="horiz">
+      <li><a href="/" class="blue">../</a></li><br />
+      <li><span class="blue">2022-03-11 </span><a href="/thoughts/languages-txt.html">languages.txt</a></li><br />
+      <li><span class="blue">2020-10-11 </span><a href="/thoughts/covid-19-txt.html">covid_19.txt</a></li><br />
+      <li><span class="blue">2020-05-21 </span><a href="/thoughts/deno-txt.html">deno.txt</a></li><br />
+    </ul>
+  </section>
+
+  <section>
+    <strong>
+      <span class="green">kdmb@kdmb.ca</span>:<span class="red">~</span><span class="blue">></span>
+    </strong> cat thoughts/deno.txt
+    <div id="horiz">
+      <p>
+        ---<br />
+        title: deno.txt<br />
+        createdAt: 2020-05-21<br />
+        ---
+      </p>
+      <p>
+        Those in the Node.js world have been closely eyeing <a href="https://deno.land" target="_blank"
+          rel="noopener noreferrer">deno</a> to learn the future of the
+        secure-by-default js/ts runtime from none other than Ryan Dahl<sup>1</sup>, the creator of Node.js himself.
+      </p>
+
+      <p>
+        As a syadmin, the project goals resonate strongly with me: deno ships as a single binary, scripts have no access
+        to the filesystem or networking by default, and the CLI tool includes some quality-of-life utilities like code
+        formatting.
+      </p>
+
+      <p>
+        I wanted an environment to try out this new engine, but by default, Glitch only runs Node.js projects. After
+        some trial-and-error (plus some help from geniuses in the community), I was able to implement deno in Glitch as
+        a full Node.js replacement. The third-party plugin <a href="https://github.com/l2ig/aqua" target="_blank"
+          rel="noopener noreferrer">aqua</a> felt very Express.js-esque, which enabled me to implement a basic web
+        server in seconds:
+        (<a href="" target="_blank" rel="noopener noreferrer">source</a>)
+      </p>
+
+      <p>
+        <sup>1</sup> His <a href="https://deno.land/v1">announcement post</a> is worth a read,
+        especially the discussion of Deno's current limitations.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <strong>
+      <span class="green">kdmb@kdmb.ca</span>:<span class="red">~</span><span class="blue">></span>
+    </strong>_
+  </section>
+</body>
+
+</html>
